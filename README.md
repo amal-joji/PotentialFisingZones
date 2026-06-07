@@ -8,6 +8,7 @@ The system integrates Chlorophyll-a concentration, Sea Surface Temperature (SST)
 By leveraging remote sensing and spatio-temporal machine learning, the project provides a data-driven approach to assist fishermen in locating regions with a high probability of fish aggregation.
 
 🎯 Objectives
+
 Predict Potential Fishing Zones using satellite-derived oceanographic parameters.
 Generate PFZ probability maps for the Tamil Nadu coast.
 Forecast PFZ movement using ocean current advection.
