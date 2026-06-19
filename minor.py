@@ -1,5 +1,5 @@
 # ============================================================
-# PFZ PROBABILITY MAP PIPELINE (FINAL WORKING VERSION)
+# PFZ PROBABILITY MAP PIPELINE
 # ============================================================
 
 import requests
