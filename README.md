@@ -1,4 +1,4 @@
-# PotentialFisingZones
+# PotentialFishingZones
 📌 Overview
 
 This project aims to identify and forecast Potential Fishing Zones (PFZs) along the Tamil Nadu Coast, India, using satellite-derived oceanographic parameters and machine learning techniques.
